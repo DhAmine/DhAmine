@@ -40,10 +40,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DhAmine-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amine-dhaini/)
-
 > **“The best way to predict the future is to create it.”** – Peter Drucker
 
 ---
